@@ -1,0 +1,2 @@
+
+O curso de **Ui Design para Iniciantes**, ou **User Interface**, vai nos proporcionar lições sobre **User Experience** (Experiência do Usuário), a ferramenta que vamos usar é o **Figma**, podendo ser usada online, vamos aprender sobre cores, tipografia, espaço e muitas outras coisas. Os requisitos para isso são zero, basta saber mexer o básico em um computador. Os projetos para esse curso serão um Portfólio, e um projeto chamado Bikecraft.
