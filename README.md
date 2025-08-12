@@ -26,7 +26,7 @@ O objetivo é documentar minha evolução no design de interfaces e experiência
 
 - [`exercicios/`](exercicios) — Exercícios práticos e desafios propostos no curso.
 - [`projetos/`](projetos) — Protótipos e interfaces completas.
-- [`anotacoes/`](anotacoes) — Resumos e conceitos importantes de UI/UX.  
+- [`anotacoes/`](anotacoes) — Resumos e conceitos importantes de Design.  
 - [`assets/`](assets) — Imagens, ícones e materiais visuais utilizados.  
 - [`certificados/`](certificados) — Certificados obtidos durante a formação.  
 
