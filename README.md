@@ -9,8 +9,6 @@
 <!-- Ferramentas e Tecnologias -->
 ![Figma](https://img.shields.io/badge/Figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white)
 ![Markdown](https://img.shields.io/badge/markdown-%23000000.svg?style=for-the-badge&logo=markdown&logoColor=white)
-
-<!-- Plataformas -->
 ![Origamid](https://img.shields.io/badge/Origamid-%2300599C.svg?style=for-the-badge&logoColor=white)
 ![Ubuntu](https://img.shields.io/badge/Ubuntu-E95420?style=for-the-badge&logo=ubuntu&logoColor=white)
 
